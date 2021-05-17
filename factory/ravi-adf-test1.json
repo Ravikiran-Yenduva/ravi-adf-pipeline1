@@ -1,0 +1,9 @@
+{
+	"name": "ravi-adf-test1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8b8076ad-e15d-4bf1-9064-b7c6a946b350",
+		"tenantId": "3617ef9b-98b4-40d9-ba43-e1ed6709cf0d"
+	}
+}
